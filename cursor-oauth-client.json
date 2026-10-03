@@ -1,0 +1,11 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/DaltonBuilds/cursor-youtrack-cimd@main/cursor-oauth-client.json",
+  "client_name": "Cursor",
+  "client_uri": "https://cursor.com",
+  "logo_uri": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/uploads/cursorlogomcpv3.svg",
+  "redirect_uris": ["http://localhost:48734/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "4e6cbe5e-0b9b-480d-a1d4-3a0bf0074904 offline_access"
+}
